@@ -19,7 +19,7 @@ The task focuses on learning how to work with SQL using **SQLite**, including:
 ## 📂 Repository Structure
 
 ```
-├── dataset/                # (Optional) Any sample dataset if used
+├── dataset/                # (Optional) Any sample dataset if used (the tables were made directly without using any dataset)
 ├── screenshots/            # Output screenshots from SQLite Online
 ├── task3_sql_queries.sql   # All SQL queries used for the task
 └── README.md               # Documentation (this file)
